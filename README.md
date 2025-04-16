@@ -1,0 +1,1 @@
+# Lab-SW6-Animal-GitHub-Prototype
